@@ -1,0 +1,6 @@
+{
+  "name": "Drone Nông Nghiệp",
+  "description": "Quản lý thu nhập và doanh thu dịch vụ máy bay phun thuốc nông nghiệp theo từng chủ hộ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
